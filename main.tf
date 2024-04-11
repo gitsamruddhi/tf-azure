@@ -9,7 +9,7 @@ terraform {
 
 
   cloud {
-    organization = "aniruddhajawanjal"
+    organization = "samruddhibhujade"
 
     workspaces {
       name = "learn-terraform-azure"
